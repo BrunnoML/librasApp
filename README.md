@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="LIBRAS.app" src="/images/preview.png" width="100%">
+  <img alt="LIBRAS.app" src="/images/preview.png" width="80%">
 </p>
 
 
